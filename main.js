@@ -18,6 +18,7 @@ range.addEventListener('input', (e) => {
     label.style.left = `${left}px`
 
 
+    
     label.innerHTML = value
 })
 
