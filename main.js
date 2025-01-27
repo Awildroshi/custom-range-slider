@@ -19,6 +19,7 @@ range.addEventListener('input', (e) => {
 
 
     
+    
     label.innerHTML = value
 })
 
